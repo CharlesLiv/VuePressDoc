@@ -1,7 +1,16 @@
 {
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.14.10"
+  }
 }
-
